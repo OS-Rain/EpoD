@@ -26,7 +26,7 @@ pip install matplotlib networkx scikit-learn scipy jupyter jupyterlab tensorboar
 Download dataset at ./traffic/data from following links
 
 ```
-https://drive.google.com/file/d/19SOqzYEKvkna6DKd74gcJ50Wd4phOHr3/view?usp=share_link
+https://drive.google.com/file/d/1GlswJSgJbGz9Qtax03KhHynekgqS759L/view?usp=drive_link
 ```
 
 
@@ -35,7 +35,7 @@ https://drive.google.com/file/d/19SOqzYEKvkna6DKd74gcJ50Wd4phOHr3/view?usp=share
 Download dataset at ./social/data from following links
 
 ```
-https://drive.google.com/file/d/19SOqzYEKvkna6DKd74gcJ50Wd4phOHr3/view?usp=share_link
+https://drive.google.com/file/d/11qxxJd_oDHuiaPqyksMHXxET9opkPTJ7/view?usp=drive_link
 ```
 
 ## 2. Experiments Running
